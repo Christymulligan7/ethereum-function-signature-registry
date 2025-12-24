@@ -1,4 +1,4 @@
-# Ethereum Function Signature Database
+0x93965F7E4CD4A80D868762A87bd6dEd50d6da11e# Ethereum Function Signature Database
 
 This project is meant to be a resource for mapping the 4-byte function
 selectors used by the EVM back to a list of known canonical function signatures
